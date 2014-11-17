@@ -38,3 +38,4 @@ webArray[16] = web17;
 webArray[17] = web18;
 var webSelector = Math.floor(Math.random() * webArray.length);
 window.open(webArray[webSelector]);
+/*Coded By Azura*/
